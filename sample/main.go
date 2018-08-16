@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"github.com/gorilla/websocket"
-	"github.com/smartwalle/bee"
+	"github.com/HankWang95/bee"
 	"log"
 	"net/http"
 )
